@@ -92,6 +92,9 @@ def cadastrar():
 
 ```
 
+![image](https://user-images.githubusercontent.com/51414398/110350179-36145180-8012-11eb-8613-30b09201dc65.png)
+
+
 ### Listing MongoDB data
 
 ```
@@ -116,6 +119,10 @@ def listar():
     desconectar(conn)
 
 ```
+
+![image](https://user-images.githubusercontent.com/51414398/110351255-63adca80-8013-11eb-9f41-270e3115b73f.png)
+
+
 
 ### Redirecting to change data
 
