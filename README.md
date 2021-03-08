@@ -172,6 +172,11 @@ def alterar():
     desconectar(conn)
 ```
 
+![image](https://user-images.githubusercontent.com/51414398/110351820-f9e1f080-8013-11eb-8237-654b53c09b21.png)
+
+
+
+
 ### Redirecting to delete data
 
 ```
@@ -214,6 +219,9 @@ def deletar():
     desconectar(conn)    
 
 ```
+
+![image](https://user-images.githubusercontent.com/51414398/110351606-c737f800-8013-11eb-9f15-0be5e20321d8.png)
+
 
 ### Logout
 
