@@ -182,3 +182,6 @@ sexta_tela.pushButton_5.clicked.connect(logout)
 oitava_tela.pushButton_5.clicked.connect(logout)
 # Executando a apliucação
 app.exec()
+
+
+
